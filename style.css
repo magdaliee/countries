@@ -1,0 +1,31 @@
+
+h1 {
+	text-align: center;
+	color: #1a2b5e;
+	font-weight: 500;
+	margin: 110px auto;
+}
+
+li { 
+	font-size: 1.2em;
+	margin-left: 40px;
+}
+
+.btn {
+	background-color: #1a2b5e;
+	color: white;
+	outline: none;
+	margin-left: 40px;
+}
+
+.btn:hover, .btn:visited {
+	outline: none;
+	color: white;
+	background-color: #344b91;
+}
+
+h2 {
+	color: #1a2b5e;
+	margin-left: 40px;
+}
+
