@@ -18,7 +18,7 @@ li {
 	margin-left: 40px;
 }
 
-.btn:hover, .btn:visited {
+.btn:hover, .btn:visited, .btn:focus {
 	outline: none;
 	color: white;
 	background-color: #344b91;
